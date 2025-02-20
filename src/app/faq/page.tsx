@@ -10,7 +10,7 @@ export default function FAQ() {
                 Why should I visit Bermel Georgis &#40;Barrel George&#41;?
                 </h2>
               </summary>
-              <ul className="list-disc list-inside text-lg text-center sm:text-left">
+              <ul className="list-disc list-inside">
                 <li>
                   <strong>Answer for life:</strong> Bermel Georgis provides you with 
                   satisfying answers that bring peace of mind. It offers solutions to 
@@ -80,16 +80,30 @@ export default function FAQ() {
                     than words can express. Visit and experience it for yourself.
                   </li>
                 </ul>
-              <Link href="/contact" className="underline font-bold">Contact</Link>
+              <Link 
+              href="/contact" 
+              className="underline font-bold"
+              aria-label="Visit contact page for travel associations"
+              >
+                Travel Associations
+              </Link>
             </details>
 
             <details>
               <summary>
                 <h2>What makes Bermel Georgis unique from other holy waters in Ethiopia?</h2>
               </summary>
-              <p><Link href="/" className="underline font-bold">Bermel Georgis</Link> 
+              <p className="ml-0">
+                <Link 
+                href="/" 
+                className="underline font-bold mr-1"
+                aria-label="Navigate to homepage to read about bermel georgis"
+                >
+                  Bermel Georgis
+                </Link> 
               stands out from other miraculous holy waters in Ethiopia for several 
-              reasons:</p>
+              reasons:
+              </p>
               <ul>
                 <li>Anyone, including atheists, can be baptized at Bermel Georgis.</li>
                 <li>It reveals profound revelations to everyone during baptism.</li>
@@ -138,7 +152,13 @@ export default function FAQ() {
               <p>You stay in the holy water for three to ten minutes per session. Each 
                 session reveals unique insights. If you are baptized three times, you will 
                 receive three different revelations.</p>
-              <Link href="/contact">Contact</Link>
+              <Link 
+              href="/contact" 
+              className="underline font-bold ml-4"
+              aria-label="Visit the contact page to ask for more information."
+              >
+                Contact For More Info
+              </Link>
             </details>
 
             <details>
@@ -158,7 +178,12 @@ export default function FAQ() {
               <p>Bermel Georgis is in the Qwara Desert in Ethiopia, approximately 940 
                 kilometers from Addis Ababa. It takes about three days by car or 15 hours 
                 by a combination of airplane and bus. For detailed directions, 
-                check this <Link href="/map" className="underline font-bold ml-1">Map</Link>.
+                check this 
+                <Link 
+                href="/map" 
+                className="underline font-bold ml-1"
+                aria-label="Visit map page for the location"
+                >Map</Link>.
               </p>
               
             </details>
@@ -174,7 +199,13 @@ export default function FAQ() {
                 Qwara. Travel agencies like Elshaday and Terbinos can assist with mixed 
                 transportation options, including airplane, bus, boat, and on-foot travel 
                 for a safe and comfortable journey.</p>
-              <Link href="/map" className="underline font-bold">Map</Link>
+              <Link 
+              href="/map" 
+              className="underline font-bold ml-4"
+              aria-label="Visit map page for Bermel Georgis location"
+              >
+                Visit Bermel Georgis Map
+              </Link>
             </details>
 
             <details>
@@ -185,7 +216,11 @@ export default function FAQ() {
                 hotels. However, temporary shelters and small houses near the church 
                 provide accommodations for visitors. Additionally, quality rooms are being 
                 constructed to meet visitors&apos; needs during their stay.</p>
-              <Link href="/about" className="underline font-bold">About</Link>
+              <Link 
+              href="/about" 
+              className="underline font-bold ml-4"
+              aria-label="Visit the about page for more information about Bermel Georgis"
+              >More About Bermel Georgis</Link>
             </details>
 
             <details>
@@ -195,7 +230,8 @@ export default function FAQ() {
               <p>
                 <Link 
                 href="/" 
-                className="underline font-bold"
+                className="underline font-bold mr-1"
+                aria-label="Visit the home page"
                 >
                   Bermel Georgis
                 </Link> 
@@ -212,7 +248,7 @@ export default function FAQ() {
               Have more questions? Visit the
               <Link 
               href="/contact" 
-              className="underline font-bold"
+              className="underline font-bold mx-1"
               >
                 Contacts
               </Link> 

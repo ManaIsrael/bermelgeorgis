@@ -140,20 +140,28 @@ export default function About() {
                     deep well and bursts into the air, reaching a height for 
                     three rounds.
                     </p>
-                    <video 
-                    loop 
-                    muted 
-                    autoPlay 
-                    preload="auto" 
+                    {/* <video  
+                    controls 
+                    preload="none" 
                     aria-label="men with tied hands sat around the barrel for baptism."
                     className="h-96 rounded-xl"
                     >
                     <source src="bermelgeorgis-baptism.mp4" type="video/mp4" />
                         Your browser does not support this video.
-                    </video>
+                    </video> */}
+                    <iframe
+                        width="560"
+                        height="315"
+                        src="https://www.youtube.com/embed/Y8JwglE8w1k" 
+                        title="በርሜል ቅዱስ ጊዮርጊስ ጸበል በሶስት ደቂቃ እንዴት እንደሰወራቸው ሰብስክራይብ በማድረግ ❖ማኅበረ ሳዶር ዘኦርቶዶክስን❖ይደግፉ"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowFullScreen
+                        className="rounded-xl"
+                    ></iframe>
+                    
                     <a 
                     href="https://www.youtube.com/watch?v=Y8JwglE8w1k" 
-                    aria-label="Navigate to YouTube which showcases men with tied hands sitting in Bermel Georgis holy water for baptism."
+                    aria-label="Navigate to YouTube which showcases a video of men with tied hands sitting in Bermel Georgis holy water for baptism."
                     className="text-blue-500 underline hover:text-blue-400"
                     >
                         Watch it on YouTube.
@@ -274,20 +282,24 @@ export default function About() {
                     </p>
                     <Link href="/faq" className="undeline font-bold block p-4 bg-gray-300 my-4">Any Question?</Link>
                     <Link href="/contact" className="undeline font-bold block p-4 bg-gray-300">Contact Travel Associations</Link>
-                    carousel of images of witnesses
+                    {/* carousel of images of witnesses */}
                 </section>
                 <section className="border m-10 bg-gray-200">
                     <h2>About me</h2>
                     <p>
-                        
+                        I am a freelance software programmer and an instructor.
+                        I teach about any tech staff including web development.
+                        If you&apos;re looking to learn programming or something 
+                        in the tech staff on your free time, both online or 
+                        in-person, visit 
+                        <a 
+                            href="https://www.ethiopia-free-time-academy.vercel.app" 
+                            aria-label="Navigate to the developer's website"
+                            className="text-blue-500 underline hover:text-blue-400 ml-1"
+                        >
+                            Ethiopia Free Time Academy
+                        </a>.
                     </p>
-                    <a 
-                    href="https://www.ethiopia-free-time-academy.vercel.app" 
-                    aria-label="Navigate to the developer's website"
-                    className="text-blue-500 underline hover:text-blue-400"
-                    >
-                        Ethiopia Free Time Academy
-                    </a>
                 </section>
             </main>
         </div>

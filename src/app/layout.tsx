@@ -48,8 +48,8 @@ const structuredData = {
     "longitude": "35.74829690239708"
   },
   "image": [
-    "https://bermelgeorgis.vercel.app/holy-water.jpg",
-    "https://bermelgeorgis.vercel.app/saint-george.jpg"
+    "https://bermelgeorgis.vercel.app/the-holy-water.png",
+    "https://bermelgeorgis.vercel.app/bermel-georgis-statue-2025.png"
   ],
   "keywords": "Bermel Georgis, miraculous holy water, Ethiopia, Saint George, baptism, revelations, healing, spiritual experiences",
 };
