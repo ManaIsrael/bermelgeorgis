@@ -153,8 +153,8 @@ export default function Contact() {
         </p>
 
         <div className="mt-8 space-y-4">
-          <Link href="/" className="underline font-bold">Back to Bermel Georgis</Link>
-          <Link href="/map" className="underline font-bold">View Bermel Georgis Location</Link>
+          <Link href="/" className="underline font-bold block">Back to Bermel Georgis</Link>
+          <Link href="/map" className="underline font-bold block">View Bermel Georgis Location</Link>
         </div>
       </main>
     </div>

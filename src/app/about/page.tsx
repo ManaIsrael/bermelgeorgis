@@ -150,7 +150,7 @@ export default function About() {
                         Your browser does not support this video.
                     </video> */}
                     <iframe
-                        width="560"
+                        width="350"
                         height="315"
                         src="https://www.youtube.com/embed/Y8JwglE8w1k" 
                         title="በርሜል ቅዱስ ጊዮርጊስ ጸበል በሶስት ደቂቃ እንዴት እንደሰወራቸው ሰብስክራይብ በማድረግ ❖ማኅበረ ሳዶር ዘኦርቶዶክስን❖ይደግፉ"
@@ -158,14 +158,6 @@ export default function About() {
                         allowFullScreen
                         className="rounded-xl"
                     ></iframe>
-                    
-                    <a 
-                    href="https://www.youtube.com/watch?v=Y8JwglE8w1k" 
-                    aria-label="Navigate to YouTube which showcases a video of men with tied hands sitting in Bermel Georgis holy water for baptism."
-                    className="text-blue-500 underline hover:text-blue-400"
-                    >
-                        Watch it on YouTube.
-                    </a>
 
                     <p>
                     During baptism at Bermel Georgis, you will sit while the 
@@ -293,7 +285,8 @@ export default function About() {
                         in the tech staff on your free time, both online or 
                         in-person, visit 
                         <a 
-                            href="https://www.ethiopia-free-time-academy.vercel.app" 
+                            href="https://ethiopia-free-time-academy.vercel.app" 
+                            target="_blank"
                             aria-label="Navigate to the developer's website"
                             className="text-blue-500 underline hover:text-blue-400 ml-1"
                         >

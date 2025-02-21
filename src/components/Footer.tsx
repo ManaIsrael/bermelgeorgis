@@ -56,7 +56,8 @@ export default function Footer() {
                     learning program on any technology matter including 
                     website development, you can check out my website - 
                     <a 
-                    href="https://www.ethiopia-free-time-academy.vercel.app" 
+                    href="https://ethiopia-free-time-academy.vercel.app/" 
+                    target="_blank"
                     aria-label="Navigate to Ethiopia free time academy website" 
                     className="text-blue-600 hover:text-blue-500 ml-1"
                     >
