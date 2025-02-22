@@ -12,7 +12,7 @@ export default function About() {
                         href="/" 
                         className="underline font-bold mr-1"
                         >
-                            Bermel Georgis
+                            Bermel Georgis, 
                         </Link> 
                         is a destination for discovering significant and 
                         meaningful revelations.
@@ -272,8 +272,8 @@ export default function About() {
                     The place is extremely hot, so it&apos;s best to bring 
                     anything you feel is necessary for your stay.
                     </p>
-                    <Link href="/faq" className="undeline font-bold block p-4 bg-gray-300 my-4">Any Question?</Link>
-                    <Link href="/contact" className="undeline font-bold block p-4 bg-gray-300">Contact Travel Associations</Link>
+                    <Link href="/faq" className="undeline font-bold block p-4 bg-gray-300 my-4" aria-label="Visit frequently asked questions page">Frequently Asked Questions</Link>
+                    <Link href="/contact" className="undeline font-bold block p-4 bg-gray-300" aria-label="Navigate to contact page">Contact Travel Associations</Link>
                     {/* carousel of images of witnesses */}
                 </section>
                 <section className="border m-10 bg-gray-200">

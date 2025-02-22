@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function FAQ() {
     return(
-        <div className="min-h-screen p-8 sm:p-20 font-sans">
+        <div className="min-h-screen mt-14 sm:mt-0 p-8 sm:p-20 font-sans">
           <main className="flex flex-col gap-8 sm:items-start">
             <details>
               <summary>
@@ -31,12 +31,12 @@ export default function FAQ() {
                   blindness, and more.
                 </li>
               </ul>
-              <Link 
+              <p><Link 
               href="/" 
               className="underline font-bold"
               >
                 Learn more about Bermel Georgis
-              </Link>
+              </Link></p>
             </details>
 
             <details>
@@ -80,13 +80,14 @@ export default function FAQ() {
                     than words can express. Visit and experience it for yourself.
                   </li>
                 </ul>
-              <Link 
+              <p><Link 
               href="/contact" 
               className="underline font-bold"
               aria-label="Visit contact page for travel associations"
               >
-                Travel Associations
+                Contact Travel Associations
               </Link>
+              </p>
             </details>
 
             <details>

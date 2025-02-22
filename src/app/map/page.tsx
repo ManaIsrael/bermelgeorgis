@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function Map() {
     return(
-        <div className="min-h-screen p-10 sm:p-20 font-sans">
+        <div className="min-h-screen p-10 mt-10 sm:mt-0 sm:p-20 font-sans">
             <main className="flex flex-col gap-8 sm:items-start">
                 <h2>The Location of Bermel Georgis</h2>
                 <p>
@@ -16,7 +16,7 @@ export default function Map() {
                     meals from small restaurants and shops nearby.
                 </p>
 
-                <table className="border border-separate border-spacing-3">
+                <table className="border text-xs sm:text-base sm:border-separate border-spacing-3">
                     <caption>The coordinates of Bermel Georgis</caption>
                     <thead>
                         <tr>
@@ -67,7 +67,7 @@ export default function Map() {
                     your own tent, using shelters provided by the church, or possibly 
                     renting a house in the nearby village.
                 </p>
-                <caption className="ml-4">Lake Tana on the way to Bahirdar airport:</caption>
+
                 <Image
                 className="mx-4"
                 src="/images/sites-on-the-way-five.png"

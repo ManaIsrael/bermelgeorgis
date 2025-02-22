@@ -51,13 +51,13 @@ export default function Home() {
                 your soul. Your soul is parted from your body and takes a visit to the 
                 other worlds, or maybe your hometown in your childhood, or have a talk 
                 to some power, or just listen to something without seeing anything, or 
-                any other various things that I could not finish explaining here but you 
-                should know that it is not a random thing you are going to see but it is an 
+                any other various things that I could not finish explaining here, but you 
+                should know that it is not a random thing you are going to see, but it is an 
                 exact message sent to you personally. Your 
                 soul unites back with your body after it finishes its visits. 
                 The whole process of the baptism could take about 10 minutes, from 
                 sitting in the baptism place to the reunion of your soul with its body. 
-                You first sit around the barrel, then you will start smelling the aron of an 
+                You first sit around the barrel, then you will start smelling the aroma of an 
                 invisible incense, you will then hear the holy water burst out from the hole 
                 and the sprinkles of the water would touch your body and you get into ecstasy.
               </p>
@@ -111,8 +111,8 @@ export default function Home() {
               </p>
               <p>
                 <strong>It answers:</strong> You can ask any questions to one of the saints including saint George,
-                from anywhere before entering to the baptism place and you&apos;ll get your answers while getting baptised. 
-                Bermel Georgis will not leave you with an unanswered question. You might also ask while getting baptised. 
+                from anywhere before entering to the baptism place and you&apos;ll get your answers while getting baptized. 
+                Bermel Georgis will not leave you with an unanswered question. You might also ask while getting baptized. 
                 You will even get answers to questions you had in your life even before you knew Bermel Georgis.
               </p>
               <p>
@@ -206,7 +206,7 @@ export default function Home() {
                 height={500}
                 loading="lazy"
               />
-              <a href="https://www.youtube.com/watch?v=kXvy8zETxL4" className="text-blue-500 hover:text-purple-950 underline my-4" aria-label="The 2019 Bermel Georgis baptism YouTube video">November 2019 YouTube video showcasing baptism in Bermel Georgis</a>
+              <p><a href="https://www.youtube.com/watch?v=kXvy8zETxL4" className="text-blue-500 hover:text-purple-950 underline my-4" aria-label="The 2019 Bermel Georgis baptism YouTube video">November 2019 YouTube video showcasing baptism in Bermel Georgis</a></p>
 
               <Image
                 className="m-4"
@@ -216,14 +216,14 @@ export default function Home() {
                 height={500}
                 loading="lazy"
               />
-              <a href="https://www.youtube.com/watch?v=j4wf0wP09XQ&t=189s" className="text-blue-500 hover:text-purple-950 underline my-4"
+              <p><a href="https://www.youtube.com/watch?v=j4wf0wP09XQ&t=189s" className="text-blue-500 hover:text-purple-950 underline my-4"
               aria-label="Bermel Georgis video from Travel Ethiopia YouTube channel."
-              >Video showcasing Bermel Georgis site from Travel Ethiopia YouTube channel.</a>
+              >Video showcasing Bermel Georgis site from Travel Ethiopia YouTube channel.</a></p>
             </article>
             <article>
               <h2>The Foundation of Bermel Georgis</h2>
               <p>
-                The arc of saint George entered the church of Mother Virgin Mary 
+                The arc of Saint George entered the church of Mother Virgin Mary 
                 in 27/07/2002 E.C. &#40;March 2010 G.C.&#41; which is found in Quara where 
                 Bermel Georgis is now located. 4 years later, in 2006 E.C. &#40;2014 G.C.&#41;, 
                 the holy water emerged when the government of Ethiopia dug the ground in 
