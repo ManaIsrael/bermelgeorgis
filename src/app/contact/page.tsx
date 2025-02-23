@@ -50,7 +50,7 @@ export default function Contact() {
           </p>
           <Image
             className="my-4"
-            src="/terbinos-media-logo.png"
+            src="/terbinos-media-logo-1.png"
             alt="Terbinos Travel Agency Logo"
             width={150}
             height={150}
