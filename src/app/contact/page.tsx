@@ -18,7 +18,7 @@ export default function Contact() {
           </p>
           <Image
             className="my-4"
-            src="/elshaday-media-logo.png"
+            src="/elshaday-media-logo-1.png"
             alt="Elshaday Travel Association Logo"
             width={150}
             height={150}
@@ -88,7 +88,7 @@ export default function Contact() {
           </p>
           <Image
             className="my-4"
-            src="/sebuha-media-logo.png"
+            src="/sebuha-media-logo-1.png"
             alt="Emahus Travel Association Logo"
             width={150}
             height={150}
