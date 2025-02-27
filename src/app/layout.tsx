@@ -48,8 +48,8 @@ const structuredData = {
     "longitude": "35.74829690239708"
   },
   "image": [
-    "https://bermelgeorgis.vercel.app/the-holy-water.png",
-    "https://bermelgeorgis.vercel.app/bermel-georgis-statue-2025.png"
+    "https://bermelgeorgis.vercel.app/images/the-holy-water.png",
+    "https://bermelgeorgis.vercel.app/images/bermel-georgis-statue-2025.png"
   ],
   "keywords": "Bermel Georgis, miraculous holy water, Ethiopia, Saint George, baptism, revelations, healing, spiritual experiences",
 };
@@ -58,6 +58,7 @@ const structuredData = {
   return (
     <html lang="en">
       <head>
+        <link rel="canonical" href="https://bermelgeorgis.vercel.app" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
