@@ -68,7 +68,7 @@ export default function Home() {
             <p>
               People from all walks of life come here for various reasons, including:
             </p>
-            <ul className="ml-4">
+            <ul className="ml-4 list-disc">
               <li>Seeking answers to deep, personal questions.</li>
               <li>Finding spiritual peace and connection.</li>
               <li>Witnessing miraculous healings or experiencing revelations.</li>
