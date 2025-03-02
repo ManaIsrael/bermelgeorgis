@@ -23,7 +23,7 @@ export default function Home() {
           <section>
             <article>
               <h2>The Miraculous Bermel Georgis</h2>
-              <p>&quot;Bermel Georgis&quot; is an Amharic term which is similarly 
+              <p>&quot;Bermel Georgis&quot; &#40;በርሜል ጊዮርጊስ&#41; is an Amharic term which is similarly 
                 translated as &quot;Barrel George&quot; in English. It is a holy water 
                 found in Ethiopia and was named after saint George. The holy water emerges 
                 from a hole surrounded by a short, medium-sized barrel. 
