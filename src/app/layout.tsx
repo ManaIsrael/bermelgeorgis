@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Bermel Georgis | Barrel George",
-  description: "Bermel Georgis is a miraculous holy water in Ethiopia, named after Saint George. It is known for parting a soul from its body, showing it incredible revelations like heaven and hell, and reuniting it back with its body.",
+  title: "Bermel Georgis | Barrel George | Bermel Giorgis",
+  description: "Bermel Georgis (also known as Bermel Giorgis) is a miraculous holy water in Ethiopia, known for its spiritual healing properties and for offering revelations of heaven and hell. It is revered for its connection to Saint George and is used in baptisms and spiritual experiences.",
   icons: {
     icon: "/icon.png",
   },
@@ -35,9 +35,10 @@ const structuredData = {
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Bermel Georgis",
+  "alternateName": "Bermel Giorgis",
   "url": "https://bermelgeorgis.vercel.app",
   "logo": "https://bermelgeorgis.vercel.app/icon.png",
-  "description": "Bermel Georgis is a miraculous holy water in Ethiopia, known for its spiritual healing properties and for offering revelations of heaven and hell. It is revered for its connection to Saint George and is used in baptisms and spiritual experiences.",
+  "description": "Bermel Georgis (also known as Bermel Giorgis) is a miraculous holy water in Ethiopia, known for its spiritual healing properties and for offering revelations of heaven and hell. It is revered for its connection to Saint George and is used in baptisms and spiritual experiences.",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Ethiopia",

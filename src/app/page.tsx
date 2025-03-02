@@ -12,7 +12,7 @@ export default function Home() {
             </video>
             <div className="caption">
               <h1 className="text-2xl sm:text-3xl font-bold text-center">
-                Bermel Georgis
+                Bermel Georgis &#40;Bermel Giorgis&#41;
               </h1>
               <p className="text-lg text-center">
                 A baptism site named after Saint George, the martyr. It is mainly known for parting a soul from its body, showing it incredible revelations like heaven and hell, and reuniting it back with its body.
