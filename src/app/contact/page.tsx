@@ -67,6 +67,7 @@ export default function Contact() {
             <li><a href="tel:+4917641750635" className="text-green-700 hover:text-green-900">+49 176 4175 0635 (Germany)</a></li>
             <li><a href="tel:+14705466354" className="text-green-700 hover:text-green-900">+1 470 546 6354 (Atlanta)</a></li>
           </ul>
+          <address className="mt-2">Genet Commercial Center, 4<sup>th</sup> Floor, Office 403, Addis Ababa, Ethiopia</address>
           <div className="space-x-4 mt-2">
             <a id="tiktok-terbinos" href="https://www.tiktok.com/@terbinos_media" target="_blank" rel="noopener noreferrer">TikTok</a>
             <a id="telegram-terbinos" href="https://t.me/Terbinos_Media" target="_blank" rel="noopener noreferrer">Telegram</a>
