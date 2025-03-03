@@ -50,7 +50,7 @@ export default function Home() {
           <article>
             <h2>Unparalleled Spiritual Encounters</h2>
             <p>
-              During baptism, many visitors describe sensory experiences, such as the scent of incense or the sound of holy water bursting forth. These moments lead to personal revelations, with the soul seemingly embarking on a journey beyond the physical world.
+              During baptism, many visitors describe sensory experiences, such as the scent of incense or the sound of holy water bursting forth. These moments lead to personal revelations, with the soul seemingly embarking on a journey beyond this world.
             </p>
             <p>
               The holy water&apos;s power doesn&apos;t discriminate—it offers its blessings to believers and non-believers alike. Many have testified to its ability to provide clarity, healing, and answers to life&apos;s most challenging questions.
@@ -128,7 +128,7 @@ export default function Home() {
               href="/contact"
               className="text-white text-lg font-bold bg-black bg-opacity-40 p-4 block hover:bg-opacity-50"
             >
-              Contact Us
+              Contact Popular Travel Associations
             </Link>
           </article>
         </section>
