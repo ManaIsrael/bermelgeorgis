@@ -32,7 +32,8 @@ export default function Home() {
           <article>
             <h2>A Sacred Destination</h2>
             <p>
-              Known as &quot;Bermel Georgis&quot; in English and &quot;በርሜል ጊዮርጊስ&quot; in Amharic, this spiritual site is celebrated for its extraordinary holy water. Named after Saint George, the water emerges from a natural spring surrounded by a distinct barrel-like structure.
+              Known as &quot;Bermel Georgis&quot; or &quot;Bermel Giorgis&quot; in the English text and &quot;በርሜል ጊዮርጊስ&quot; in Amharic, this spiritual site is celebrated for its extraordinary holy water. Named after Saint George, the water emerges from a natural spring surrounded by a distinct barrel-like structure.
+              Direct translation of &quot;Bermel Giorgis&quot; from Amharic to English is &quot;Barrel George&quot;, &quot;Bermel&quot; meaning &quot;Barrel&quot; and &quot;Giorgis&quot; meaning &quot;George&quot;.
             </p>
             <p>
               Visitors often describe unique experiences during baptisms, including visions of other realms, profound insights, and a sense of peace. The moments spent here feel timeless, with some recounting that a few minutes felt like a lifetime of spiritual connection.
