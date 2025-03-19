@@ -64,8 +64,8 @@ const structuredData = {
         <link rel="canonical" href="https://bermelgeorgis.vercel.app" />
         <meta property="og:image" content="https://bermelgeorgis.vercel.app/icon.png" />
         <meta property="og:image:type" content="image/png" />
-        <meta property="og:image:width" content="1200" />
-        <meta property="og:image:height" content="1200" />
+        <meta property="og:image:width" content="500" />
+        <meta property="og:image:height" content="500" />
         <meta name="twitter:card" content="summary_large_image" />
         <script
           type="application/ld+json"
