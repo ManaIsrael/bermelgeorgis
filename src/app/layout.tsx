@@ -62,6 +62,7 @@ const structuredData = {
     <html lang="en">
       <head>
         <link rel="canonical" href="https://bermelgeorgis.vercel.app" />
+        <link rel="icon" href="/favicon-32x32.png" sizes="32x32" />
         <meta property="og:image" content="https://bermelgeorgis.vercel.app/icon.png" />
         <meta property="og:image:type" content="image/png" />
         <meta property="og:image:width" content="500" />
