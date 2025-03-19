@@ -38,7 +38,7 @@ const structuredData = {
   "alternateName": "Bermel Giorgis",
   "url": "https://bermelgeorgis.vercel.app",
   "logo": "https://bermelgeorgis.vercel.app/icon.png",
-  "description": "Bermel Georgis (also known as Bermel Giorgis) is a miraculous holy water in Ethiopia, known for its spiritual healing properties and for offering revelations of heaven and hell. It is revered for its connection to Saint George and is used in baptisms and spiritual experiences.",
+  "description": "Bermel Georgis (or Bermel Giorgis) is a miraculous holy water in Ethiopia, revered for its healing properties and connection to Saint George, used in baptisms and spiritual experiences.",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Ethiopia",
