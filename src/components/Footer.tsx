@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 export default function Footer() {
     return(
-        <footer aria-label='Site footer' className="flex flex-col items-center gap-6 p-6 text-white">
+        <footer aria-label='Site footer' className="flex flex-col bg-gray-800 items-center gap-6 p-6 text-white">
             <h1 className="text-2xl font-bold hover:text-gray-600">
                 <Link href="/" aria-label="Home - Bermel Georgis">
                     Bermel Georgis

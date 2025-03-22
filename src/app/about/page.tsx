@@ -18,6 +18,7 @@ export default function About() {
                         meaningful revelations.
                     </p>
 
+                    <h3>The Location</h3>
                     <p>
                         Bermel Georgis is located in Qwara, a hot region where 
                         temperatures exceed 36&deg;C in the summer. The area is home to local 
@@ -28,6 +29,7 @@ export default function About() {
                         meals from small restaurants and shops nearby.
                     </p>
 
+                    <h3>How Much You Can Stay</h3>
                     <p>
                     You can stay at Bermel Georgis for as long as you wish. 
                     If you choose to travel with Elshaday Travel Agency, 
@@ -40,6 +42,7 @@ export default function About() {
                     tickets from Elshaday Travel Agency.
                     </p>
 
+                    <h3>What to Bring For Your Stay</h3>
                     <p>
                     If you are traveling independently, it&apos;s recommended 
                     to bring a tent. Otherwise, the travel agencies provide 
@@ -66,6 +69,7 @@ export default function About() {
                     height={500}
                     />
 
+                    <h3>What&apos;s Found Around It</h3>
                     <p>
                     The area is a desert, but there is a village and small shops 
                     near Bermel Georgis. Additionally, there is an Ethiopian 
@@ -76,11 +80,13 @@ export default function About() {
                     similar to Bermel Georgis and located not far from it.
                     </p>
 
+                    <h3>Network Access</h3>
                     <p>
                     There is network coverage available for making calls, 
                     but there is no internet access.
                     </p>
 
+                    <h3>Similar Sites</h3>
                     <p>
                     Mrt Delego Kidane Mihret is another holy water source in 
                     the area. Unlike Bermel Georgis, where the water gushes 
@@ -129,6 +135,7 @@ export default function About() {
                     className="mb-4"
                     />
 
+                    <h3>What Could Happen in the Process</h3>
                     <p>
                     During baptism at Bermel Georgis, you might catch the 
                     scent of incense and hear the sound of Saint George&apos;s 
@@ -153,7 +160,7 @@ export default function About() {
                         width="350"
                         height="315"
                         src="https://www.youtube.com/embed/Y8JwglE8w1k" 
-                        title="በርሜል ቅዱስ ጊዮርጊስ ጸበል በሶስት ደቂቃ እንዴት እንደሰወራቸው ሰብስክራይብ በማድረግ ❖ማኅበረ ሳዶር ዘኦርቶዶክስን❖ይደግፉ"
+                        title="በርሜል ቅዱስ ጊዮርጊስ ጸበል በሶስት ደቂቃ እንዴት እንደሰወራቸው"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         allowFullScreen
                         className="rounded-xl"
@@ -169,7 +176,6 @@ export default function About() {
                     either males or females sitting next to each other 
                     for each round. This is because many baptizands are 
                     waiting for their turn, and the holy water flows every 
-                    30 minutes. The next round of baptism takes place after 
                     30 minutes. However, you are not tied in Yordanos and 
                     Mrt Delego Kidane Mihret holy waters.
                     </p>
@@ -179,6 +185,7 @@ export default function About() {
                     will have only one turn per day.
                     </p>
 
+                    <h3>Your Journey is Safe</h3>
                     <p>
                     On the day you choose to come to Bermel Georgis, Saint 
                     George is the one responsible for guiding you safely to 
@@ -199,6 +206,7 @@ export default function About() {
                     successfully.
                     </p>
 
+                    <h3>Traveling with Travel Associations</h3>
                     <p>
                     Travel agencies like Elshaday, Terbinos, and Emahus provide all 
                     the necessary transportation options to get you to 
@@ -218,22 +226,6 @@ export default function About() {
                     </Link> 
                     page.
                     </p>
-                    
-                    <p>
-                    People of all beliefs, whether believers or non-believers, 
-                    are welcome to be baptized at Bermel Georgis. The only 
-                    distinction made is the separation of men and women into 
-                    different groups for baptism. However, the paralyzed are 
-                    baptized alongside the able-bodied, children with adults, 
-                    believers with non-believers, and so on.
-                    </p>
-
-                    <p>
-                    If one of the saints asks you to testify about what you 
-                    have witnessed, you should do so. You can share your 
-                    testimony on the stage of the church, at another 
-                    location, or with someone you know.
-                    </p>
 
                     <p>
                     The travel agencies provide shelters equipped with all the 
@@ -243,14 +235,33 @@ export default function About() {
                     tent, using shelters provided by the church, or possibly 
                     renting a house in the nearby village.
                     </p>
-
+                    
+                    <h3>Who Can be Baptized there</h3>
                     <p>
-                    Holy waters are always free, especially in Ethiopia. 
+                    People of all beliefs, whether believers or non-believers, 
+                    are welcome to be baptized at Bermel Georgis. The only 
+                    distinction made is the separation of men and women into 
+                    different groups for baptism. However, the paralyzed are 
+                    baptized alongside the able-bodied, children with adults, 
+                    believers with non-believers, and so on.
+                    </p>
+
+                    <h3>Witnessing of What You Saw</h3>
+                    <p>
+                    If one of the saints asks you to testify about what you 
+                    have witnessed, you should do so. You can share your 
+                    testimony on the stage of the church, at another 
+                    location, or with someone you know.
+                    </p>
+
+                    <h3>Is there Additional Fee Other than Transportation?</h3>
+                    <p>
                     You do not pay for the church or any of its services, 
                     including baptism. There is also no tourist fee for 
                     foreigners to visit the site.
                     </p>
 
+                    <h3>What to Do Before Baptism</h3>
                     <p>
                     You are required to wear shorts during baptism, so be sure 
                     to bring a pair with you.
